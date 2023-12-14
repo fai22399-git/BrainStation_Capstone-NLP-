@@ -81,7 +81,7 @@ recommended: Binary, target variable. (yes,no)
 * `.gitignore`
     - Part of Git, includes files and folders to be ignored by Git version control
 
-* `capstine_env.yml`
+* `environment.yml`
     - Conda environment specification
 
 * `Makefile`
@@ -100,8 +100,5 @@ The raw dataset can be accessed [here](https://drive.google.com/uc?export=downlo
 Inspiration from Lae Rivera - Github
 
 Statista Research Department and 17, J. (2023) Global Airline Industry Market Size 2023, Statista. Available at: https://www.statista.com/statistics/1110342/market-size-airline-industry-worldwide/#:~:text=In%202023%2C%20the%20global%20market,the%20most%20affected%20businesses%20worldwide. (Accessed: 20 October 2023). 
-...
-...
-...
 
 --------
