@@ -54,7 +54,7 @@ recommended: Binary, target variable. (yes,no)
 
 ### Project Flowchart
 
-![Alt text](image.png)
+![Alt text](/Users/faisal/BrainStation_Capstone-NLP-/reports/figures/workflow capstone.drawio.png)
 
 
 ### Project Organization
