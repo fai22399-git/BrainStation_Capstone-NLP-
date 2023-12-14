@@ -7,7 +7,7 @@ Hi there! This is my capstone project submission for BrainStation's Data Science
 
 In this project, I use Natural Language Processing and Machine Learning techniques to identify characters in reviews that can identify a positive or negative review. I also perform various methods of data analysis and visualisation to communicate findings and actionable insights.
 
-The aim of this project is to revolutionise the airline industry by automating the sentimen analyis on airline reviews. This model can help organisations identify pain points for passengers and act proactively with the aim to meet and/or exceed expectations. A notable impact of this would be the overall improvement of customer satisfaction by fostering a more positive airline experience.
+The aim of this project is to revolutionise the airline industry by automating the sentiment analysis on airline reviews. This model can help organisations identify pain points for passengers and act proactively with the aim to meet and/or exceed expectations. A notable impact of this would be the overall improvement of customer satisfaction by fostering a more positive airline experience.
 
 **Data Dictionary**
 
